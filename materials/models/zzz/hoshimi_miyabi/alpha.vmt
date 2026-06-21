@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\zzz\Hoshimi_Miyabi\outline"
+	"$bumpmap" "models\zzz\Hoshimi_Miyabi\normal"
+	$nodecal 1
+	"$lightwarptexture" "models\zzz\Hoshimi_Miyabi\lightwarp_black"
+
+	"$phong" "1"
+	"$phongboost"	"0"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "shared\phong_exp"
+	"$phongfresnelranges"	"[0 0 0]"
+}
+
+
+

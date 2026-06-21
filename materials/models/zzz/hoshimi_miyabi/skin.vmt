@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\zzz\Hoshimi_Miyabi\body"
+	"$bumpmap" "models\zzz\Hoshimi_Miyabi\normal"
+
+	"$lightwarptexture" "models\zzz\Hoshimi_Miyabi\lightwarp_s2"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	// "$phongalbedotint" "1"
+	$phongexponent		64	
+	"$phongfresnelranges"	"[0 0 1]"
+
+	$rimlight               1
+	$rimlightexponent       24
+	$rimlightboost          4
+
+}
+
+
+
