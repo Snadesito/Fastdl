@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cssrs2_ky39i\weapons\knife_Butterfly_def\my_skype_cssrs2_ky39i_ct_arms"
+	"$bumpmap" "models\cssrs2_ky39i\weapons\knife_Butterfly_def\ct_arms_normal"
+}
