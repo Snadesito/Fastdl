@@ -1,7 +1,7 @@
 "vertexlitgeneric"
 {
-	"$baseTexture" "models\weapons\v_models\pist_glock19\glock18"
-	"$bumpmap" "models\weapons\v_models\pist_glock19\glock18_ref"
+	"$baseTexture" "models/weapons/v_models/pist_glock19/glock18"
+	"$bumpmap" "models/weapons/v_models/pist_glock19/glock18_ref"
 	"$phong" "1"
 	"$phongexponent" "45"
 	"$phongboost"	"1"
