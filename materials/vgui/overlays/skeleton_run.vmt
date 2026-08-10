@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/overlays/skeleton_run"
+	"$translucent" "1"
+	"$ignorez"     "1"
+	"$no_fullbright" "1"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" "90"
+		}
+	}
+}
