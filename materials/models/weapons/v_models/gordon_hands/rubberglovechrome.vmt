@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$envmap" "models\weapons\v_models\gordon_hands\rubbergloveCHROME"
+	"$envmapsphere"			1
+	"$envmapmode" 1
+
+	// requred to see specular on dx6+7 at all
+	"$multipass" 1
+}
